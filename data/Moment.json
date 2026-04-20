@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+
+            "user": "Vlack",
+            "link": "https://www.youtube.com/watch?v=tP7ifD1I_HI",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
