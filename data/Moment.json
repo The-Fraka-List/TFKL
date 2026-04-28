@@ -9,18 +9,22 @@
     "password": "Free To Copy",
     "records": [
         {
-
             "user": "Vlack",
             "link": "https://www.youtube.com/watch?v=tP7ifD1I_HI",
             "percent": 100,
             "hz": 120
         },
         {
-
             "user": "Toxic",
             "link": "https://www.youtube.com/watch?v=5u0yRF76GQ0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "AleezCourtz",
+            "link": "https://www.youtube.com/watch?v=JX901mxD2Jc",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
