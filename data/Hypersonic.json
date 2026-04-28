@@ -9,9 +9,14 @@
     "password": "Free To Copy",
     "records": [
         {
-
             "user": "Benja_dark",
             "link": "https://www.youtube.com/watch?v=6QVUx5T2uxk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Eduh",
+            "link": "https://www.youtube.com/watch?v=kB2In6rOwk0",
             "percent": 100,
             "hz": 60
         }
