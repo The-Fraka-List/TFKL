@@ -9,39 +9,40 @@
     "password": "Free To Copy",
     "records": [
         {
-
             "user": "Toxic",
             "link": "https://www.youtube.com/watch?v=Qb4PrWx5Pgg",
             "percent": 100,
             "hz": 240
         },
         {
-
             "user": "Aku",
             "link": "https://www.youtube.com/watch?v=nCpx1kitCBk",
             "percent": 100,
             "hz": 240
         },
         {
-
             "user": "Enzo",
             "link": "https://www.youtube.com/watch?v=cLOxNiyGq_M",
             "percent": 100,
             "hz": 240
         },
         {
-
             "user": "Shiku",
             "link": "https://www.youtube.com/watch?v=-61LQPbBFQ0",
             "percent": 100,
             "hz": 240
         },
         {
-
             "user": "Flame986",
             "link": "https://www.youtube.com/watch?v=GWyf3Gv3EV4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "AleezCourtz",
+            "link": "https://www.youtube.com/watch?v=z1s1uGGD2eY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
