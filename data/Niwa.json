@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=etumD6BjDI4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Aku",
+            "link": "https://www.youtube.com/watch?v=NfVrTpjSIQI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
