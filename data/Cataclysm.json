@@ -3,14 +3,32 @@
     "name": "Cataclysm",
     "author": "GgB0y",
     "creators": ["GgB0y"],
-    "verifier": "Shiku",
-    "verification": "https://www.youtube.com/watch?v=fLy7F6ROygU",
+    "verifier": "AssassinDarkEXE",
+    "verification": "https://www.youtube.com/watch?v=QNgp-A-Jb8o",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Shiku",
+            "link": "https://www.youtube.com/watch?v=fLy7F6ROygU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "AleezCourtz",
             "link": "https://www.youtube.com/watch?v=ESWVKKaIdvQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kepta_bb",
+            "link": "https://www.youtube.com/watch?v=mwxRXaW1pCQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fiumba",
+            "link": "https://www.youtube.com/watch?v=wpdiNPdv30c",
             "percent": 100,
             "hz": 60
         }
