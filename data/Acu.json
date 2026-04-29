@@ -25,6 +25,18 @@
             "link": "https://www.youtube.com/watch?v=lwovFmGzzhw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "AssassinDarkEXE",
+            "link": "https://www.youtube.com/watch?v=EuljMTgco8A",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Fiumba",
+            "link": "https://www.youtube.com/watch?v=kz-tK3z1vio",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
