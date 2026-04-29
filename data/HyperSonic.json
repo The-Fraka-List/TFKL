@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Toxic",
+            "link": "https://www.twitch.tv/videos/1934439348",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Benja_dark",
             "link": "https://www.youtube.com/watch?v=6QVUx5T2uxk",
             "percent": 100,
