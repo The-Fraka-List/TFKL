@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=tvbnuzoXfK8",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=bVyVRMfSeSw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fiumba",
+            "link": "https://www.youtube.com/watch?v=dnbcenBECtY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
