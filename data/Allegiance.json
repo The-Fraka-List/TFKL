@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=-Nbx5btLFb8",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Toxic",
+            "link": "https://www.youtube.com/watch?v=kmYpelMkqwM",
+            "percent": 100,
+            "hz": 160
         }
     ]
 }
