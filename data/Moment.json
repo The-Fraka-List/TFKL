@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=JX901mxD2Jc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=1ch42oBVRLM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
