@@ -9,6 +9,18 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "AleezCourtz",
+            "link": "https://www.youtube.com/watch?v=z1s1uGGD2eY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Playlino",
+            "link": "https://youtu.be/eIu5_1hrcWQ?si=UoUYiUTM44H15KEs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
             "user": "Toxic",
             "link": "https://www.youtube.com/watch?v=Qb4PrWx5Pgg",
             "percent": 100,
@@ -37,12 +49,6 @@
             "link": "https://www.youtube.com/watch?v=GWyf3Gv3EV4",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "AleezCourtz",
-            "link": "https://www.youtube.com/watch?v=z1s1uGGD2eY",
-            "percent": 100,
-            "hz": 60
         },
         {
             "user": "Kepta_bb",
