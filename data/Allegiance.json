@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=SZVLVdxFr38",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Kepta_bb",
+            "link": "https://www.youtube.com/watch?v=tEhkjrTPY4c",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fiumba",
+            "link": "https://www.youtube.com/watch?v=-Nbx5btLFb8",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
