@@ -8,10 +8,15 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-          {
-
+        {
             "user": "Benja_dark",
             "link": "https://www.youtube.com/watch?v=O5O-vvLwoFw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Fiumba",
+            "link": "https://www.youtube.com/watch?v=etumD6BjDI4",
             "percent": 100,
             "hz": 60
         }
